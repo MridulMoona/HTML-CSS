@@ -1,0 +1,41 @@
+
+  #Lamb
+  {
+    border-color: red;
+    width: 450px;
+
+  }
+
+  #Lamb:hover{
+    width: 720px;
+    border-radius: 15px;
+    border-color:#ffff00;
+  }
+#GTR
+{
+  border-color: blue;
+  width: 450px;
+}
+#GTR:hover{
+  width: 720px;
+  border-radius: 15px;
+  border-color:#adff2f;
+}
+.prices{
+  font-style: italic;
+}
+a:visited{
+  color: orange;
+}
+h2{
+  font-family: fantasy;
+}
+#sub:hover
+{
+  background-color: orange;
+  color: white;
+
+}
+input:focus{
+  background-color: green;
+}
